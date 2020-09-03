@@ -1,5 +1,5 @@
 
-<img src="https://fbcoverstreet.com/thumbnail/KzC8xDTGa7QqZsWFOihMGZNHGQDhQkL2RmYeTC2EOE8olkGWORz5yRRtm42hAuzy&auto=format&fit=crop&w=975&h=300&q=80"/>
+<img src="https://rooteto.wordpress.com/2011/12/16/facebok-cover-download/#jp-carousel-8&auto=format&fit=crop&w=975&h=300&q=80"/>
 
 ### Hi there 👋, I'm Sean Gordon. I'm a BI developer with a hobby in code. Welcome to my gh page! <br>
   
