@@ -4,8 +4,8 @@
 ### Hi there 👋, I'm Sean Gordon. I'm a BI developer with a hobby in code. Welcome to my gh page! <br>
   
 - 🔭 I'm currently working on Buisiness reporting and interactive management chatbots
-- 🌱 I'm currently learning C# .NET | Javascript
+- 🌱 I'm currently learning C# .NET | Javascript | Python
 - 🤔 I'm looking for help with learning new technologies
 - 💬 Ask me about BI
-- 📫 How to reach me: Email?
+- 📫 How to reach me: Email
 - ⚡ Fun fact: The Hebrew for "current account" (חשבון עובר ושב) literally translates as "comes-and-goes account".
