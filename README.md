@@ -4,8 +4,6 @@
 
 ### BI Consultant & Hobbyist Developer based in Johannesburg, South Africa 🇿🇦
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/thebeanboss44?style=social)](https://twitter.com/thebeanboss44)
-
 </div>
 
 ---
