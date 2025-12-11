@@ -34,23 +34,11 @@ I am a **Business Intelligence Consultant** who dabbles in the world of code. I 
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-[![Sean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sean-gordon&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-gordon&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
 ### 📂 Featured Repositories
 
 Here are a few projects I've worked on:
 
-- **[PdfToText](https://github.com/sean-gordon/PdfToText)**: A simple C# class to extract plain text from PDF documents using ITextSharp.
+- **[Plex Barcode Remote](https://github.com/sean-gordon/plex-barcode-remote)**: Create printable, card-sized posters with barcodes, scan them and make your kids happy.
 - **[Investec-Actual Budget](https://github.com/sean-gordon/Investec-ActualBudget)**: Import Investec into Actual Budget
 
 ---
