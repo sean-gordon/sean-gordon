@@ -28,6 +28,7 @@ My work sits at the intersection of **data**, **automation**, and **user-friendl
 <p>  
   <img alt="Qlik" src="https://img.shields.io/badge/qlik-009845.svg?style=for-the-badge&logo=qlik&logoColor=white"/>
   <img alt="Anthropic" src="https://img.shields.io/badge/anthropic-191919.svg?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="C#" src="https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
