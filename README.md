@@ -25,7 +25,8 @@ My work sits at the intersection of **data**, **automation**, and **user-friendl
 
 ## Tech Stack
 
-<p>
+<p>  
+  <img alt="Qlik" src="https://img.shields.io/badge/qlik-009845.svg?style=for-the-badge&logo=qlik&logoColor=white"/>
   <img alt="C#" src="https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -33,7 +34,6 @@ My work sits at the intersection of **data**, **automation**, and **user-friendl
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="Qlik" src="https://img.shields.io/badge/qlik-009845.svg?style=for-the-badge&logo=qlik&logoColor=white"/>
 </p>
 
 ---
